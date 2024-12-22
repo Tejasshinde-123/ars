@@ -1,0 +1,58 @@
+.careers-container {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+.careers-header {
+  margin-top: 30px;
+  background-color:rgb(5, 23, 128);
+  
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.careers-content {
+  padding: 20px;
+  max-width: 800px;
+  margin: 30px auto;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.careers-content h1, .careers-content h2 {
+  color: #333;
+}
+
+.careers-content p {
+  color: #555;
+  line-height: 1.6;
+}
+
+.careers-content ul {
+  list-style-type: disc;
+  margin: 10px 0 20px 20px;
+  color: #555;
+}
+
+.btn-apply {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #051267;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn-apply:hover {
+  background-color:rgb(5, 23, 128);
+}
+
+.company-name {
+  font-weight: bold;
+}
